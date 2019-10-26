@@ -1,4 +1,4 @@
-# Image Recognition Algorithm
+## Image Recognition Algorithm
 
 import numpy as np
 import matplotlib.pyplot as plt
